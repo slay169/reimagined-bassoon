@@ -1,0 +1,15 @@
+I:\GeekBrains\Домашки\Домашняя работа1\Задание18\bin\Debug\net6.0\Задание18.exe
+I:\GeekBrains\Домашки\Домашняя работа1\Задание18\bin\Debug\net6.0\Задание18.deps.json
+I:\GeekBrains\Домашки\Домашняя работа1\Задание18\bin\Debug\net6.0\Задание18.runtimeconfig.json
+I:\GeekBrains\Домашки\Домашняя работа1\Задание18\bin\Debug\net6.0\Задание18.dll
+I:\GeekBrains\Домашки\Домашняя работа1\Задание18\bin\Debug\net6.0\Задание18.pdb
+I:\GeekBrains\Домашки\Домашняя работа1\Задание18\obj\Debug\net6.0\Задание18.csproj.AssemblyReference.cache
+I:\GeekBrains\Домашки\Домашняя работа1\Задание18\obj\Debug\net6.0\Задание18.GeneratedMSBuildEditorConfig.editorconfig
+I:\GeekBrains\Домашки\Домашняя работа1\Задание18\obj\Debug\net6.0\Задание18.AssemblyInfoInputs.cache
+I:\GeekBrains\Домашки\Домашняя работа1\Задание18\obj\Debug\net6.0\Задание18.AssemblyInfo.cs
+I:\GeekBrains\Домашки\Домашняя работа1\Задание18\obj\Debug\net6.0\Задание18.csproj.CoreCompileInputs.cache
+I:\GeekBrains\Домашки\Домашняя работа1\Задание18\obj\Debug\net6.0\Задание18.dll
+I:\GeekBrains\Домашки\Домашняя работа1\Задание18\obj\Debug\net6.0\refint\Задание18.dll
+I:\GeekBrains\Домашки\Домашняя работа1\Задание18\obj\Debug\net6.0\Задание18.pdb
+I:\GeekBrains\Домашки\Домашняя работа1\Задание18\obj\Debug\net6.0\Задание18.genruntimeconfig.cache
+I:\GeekBrains\Домашки\Домашняя работа1\Задание18\obj\Debug\net6.0\ref\Задание18.dll
