@@ -1,0 +1,15 @@
+I:\GeekBrains\Домашки\Домашняя работа3\reimagined-bassoon\Задание31\bin\Debug\net6.0\Задание31.exe
+I:\GeekBrains\Домашки\Домашняя работа3\reimagined-bassoon\Задание31\bin\Debug\net6.0\Задание31.deps.json
+I:\GeekBrains\Домашки\Домашняя работа3\reimagined-bassoon\Задание31\bin\Debug\net6.0\Задание31.runtimeconfig.json
+I:\GeekBrains\Домашки\Домашняя работа3\reimagined-bassoon\Задание31\bin\Debug\net6.0\Задание31.dll
+I:\GeekBrains\Домашки\Домашняя работа3\reimagined-bassoon\Задание31\bin\Debug\net6.0\Задание31.pdb
+I:\GeekBrains\Домашки\Домашняя работа3\reimagined-bassoon\Задание31\obj\Debug\net6.0\Задание31.csproj.AssemblyReference.cache
+I:\GeekBrains\Домашки\Домашняя работа3\reimagined-bassoon\Задание31\obj\Debug\net6.0\Задание31.GeneratedMSBuildEditorConfig.editorconfig
+I:\GeekBrains\Домашки\Домашняя работа3\reimagined-bassoon\Задание31\obj\Debug\net6.0\Задание31.AssemblyInfoInputs.cache
+I:\GeekBrains\Домашки\Домашняя работа3\reimagined-bassoon\Задание31\obj\Debug\net6.0\Задание31.AssemblyInfo.cs
+I:\GeekBrains\Домашки\Домашняя работа3\reimagined-bassoon\Задание31\obj\Debug\net6.0\Задание31.csproj.CoreCompileInputs.cache
+I:\GeekBrains\Домашки\Домашняя работа3\reimagined-bassoon\Задание31\obj\Debug\net6.0\Задание31.dll
+I:\GeekBrains\Домашки\Домашняя работа3\reimagined-bassoon\Задание31\obj\Debug\net6.0\refint\Задание31.dll
+I:\GeekBrains\Домашки\Домашняя работа3\reimagined-bassoon\Задание31\obj\Debug\net6.0\Задание31.pdb
+I:\GeekBrains\Домашки\Домашняя работа3\reimagined-bassoon\Задание31\obj\Debug\net6.0\Задание31.genruntimeconfig.cache
+I:\GeekBrains\Домашки\Домашняя работа3\reimagined-bassoon\Задание31\obj\Debug\net6.0\ref\Задание31.dll
